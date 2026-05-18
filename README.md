@@ -1,1 +1,2 @@
-# Kajal-Mehta
+#SQL_ScholarshipTrackingSystem_Project
+This is a  SQL end to end project
